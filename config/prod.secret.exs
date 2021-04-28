@@ -5,7 +5,7 @@
 use Mix.Config
 
 database_url =
-  "postgres://gypycobwxzzzum:ee3cfbf96c45956924e1895d17737ef96b9c41287861e629a6bd24454b0ace75@ec2-54-87-112-29.compute-1.amazonaws.com:5432/daeglnnh3tgf62"
+  "postgres://wbgvzxsxvoqheo:fee9dfe2e7cdec17603e104826ca8aa1f4023ba339c018831aa8073c844e97bd@ec2-34-230-115-172.compute-1.amazonaws.com:5432/dfg4j9vusnf62v"
 
 config :phoenix_with_heroku, PhoenixWithHeroku.Repo,
   adapter: Ecto.Adapters.Postgres,
